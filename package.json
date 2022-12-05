@@ -51,7 +51,7 @@
     "minimist": "^1.2.0",
     "mixin-deep": "^1.1.3",
     "object.pick": "^1.2.0",
-    "remarkable": "ssh://git@github.com:ipinfo/remarkable.git",
+    "remarkable": "github:ipinfo/remarkable#master",
     "repeat-string": "^1.6.1",
     "strip-color": "^0.1.0"
   },
