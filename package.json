@@ -2,8 +2,6 @@
   "name": "markdown-toc",
   "description": "Generate a markdown TOC (table of contents) with Remarkable.",
   "version": "1.2.0",
-  "homepage": "https://github.com/jonschlinkert/markdown-toc",
-  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "contributors": [
     "=^._.^= (http://maxogden.com)",
     "Andrés (http://angrykoala.github.io)",
@@ -26,10 +24,7 @@
     "(https://github.com/lu22do)",
     "Zeke Sikelianos (http://zeke.sikelianos.com)"
   ],
-  "repository": "jonschlinkert/markdown-toc",
-  "bugs": {
-    "url": "https://github.com/jonschlinkert/markdown-toc/issues"
-  },
+  "repository": "ipinfo/markdown-toc",
   "license": "MIT",
   "files": [
     "cli.js",
@@ -56,7 +51,7 @@
     "minimist": "^1.2.0",
     "mixin-deep": "^1.1.3",
     "object.pick": "^1.2.0",
-    "remarkable": "ssh://git@github.com:alexseman/remarkable.git",
+    "remarkable": "ssh://git@github.com:ipinfo/remarkable.git",
     "repeat-string": "^1.6.1",
     "strip-color": "^0.1.0"
   },
